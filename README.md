@@ -6,3 +6,6 @@ http://www.niaogebiji.com/article-10007-1.html
 
 一场完整活动要用到的工具，我都帮你准备好了！  
 http://www.huodonghezi.com/news-453.html
+
+产品经理要懂的设计尺寸  
+http://mp.weixin.qq.com/s?__biz=MzIwMTAwOTk1NA==&mid=2247483697&idx=1&sn=7345d152ce5a531173e71ae9a4306e4d&scene=21#wechat_redirect
