@@ -1,4 +1,5 @@
 ## 网站博客
+卡卡的人生哲学  
 http://www.jianshu.com/users/b4b1045eb1bb/latest_articles
 
 ## 文章
