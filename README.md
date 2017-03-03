@@ -1,5 +1,6 @@
 ## 网站博客
 - [卡卡的人生哲学](http://www.jianshu.com/users/b4b1045eb1bb/latest_articles)
+- [博客总结，文章汇总：产品经理的成长之路](http://tangjie.me/blog/66.html)
 
 ## 文章
 - [微交互怎么玩？一份简单实用的微交互设计指南（超多案例）](http://www.uisdc.com/micro-interaction-design-guideline)
